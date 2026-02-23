@@ -79,7 +79,8 @@ The following plots were generated from the experiment outputs:
 - Quantum (ms) vs Estimated Context Switches
 - Quantum (ms) vs Average Response Time (ms)
 
-![Figure 1 - Quantum vs Metrics](assets/figure1_quantum_vs_metrics.png)
+![Figure 1 - Quantum vs Metrics]<img width="1511" height="465" alt="ss" src="https://github.com/user-attachments/assets/ca3d6983-5956-411b-8f87-c975f651bd08" />
+
 
 
 ---
