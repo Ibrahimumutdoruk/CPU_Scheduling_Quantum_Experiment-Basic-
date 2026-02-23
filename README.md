@@ -78,11 +78,14 @@ This section presents the measured metrics in tabular form and supports them wit
 The following plots were generated from the experiment outputs:
 - Quantum (ms) vs Estimated Context Switches
 - Quantum (ms) vs Average Response Time (ms)
-
-![Figure 1 - Quantum vs Metrics]<img width="1511" height="465" alt="ss" src="https://github.com/user-attachments/assets/ca3d6983-5956-411b-8f87-c975f651bd08" />
-
-
-
+  
+<p align="center">
+  <img width="1511" height="465" alt="ss" src="https://github.com/user-attachments/assets/ca3d6983-5956-411b-8f87-c975f651bd08" />
+</p>
+<p align="center"><em>
+  Figure 1. Graphical output of Quantum Time (ms) vs Average Response Time (ms) and Quantum Time (ms) vs Estimated Number of Context Switches.
+</em></p>
+<p align="center"><strong>Figure 1.</strong> ...</p>
 ---
 
 ## Build and Run
