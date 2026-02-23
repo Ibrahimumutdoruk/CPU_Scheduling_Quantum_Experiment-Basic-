@@ -1,0 +1,12 @@
+--- Round Robin Experiment (N=3, Q=26) ---
+[Process 0] Started at: 0.0001 ms
+[Process 0] Finished at: 2923.3398 ms | Turnaround: 2923.3398 ms | Response: 0.0001 ms | Slices: 29
+[Process 1] Started at: 28.5834 ms
+[Process 1] Finished at: 3017.1647 ms | Turnaround: 3017.1647 ms | Response: 28.5834 ms | Slices: 30
+[Process 2] Started at: 60.5742 ms
+[Process 2] Finished at: 3056.6701 ms | Turnaround: 3056.6701 ms | Response: 60.5742 ms | Slices: 30
+
+Total Execution Time: 3056.6702 ms
+Average Response Time: 29.7192 ms
+Average Turnaround Time: 2999.0582 ms
+Estimated Context Switches (Total): 89
