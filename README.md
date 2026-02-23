@@ -57,6 +57,32 @@ Experiments were conducted on an **Ubuntu 24.04.1 LTS** virtual machine running 
   Total slices ≈ total context switches (for this simulation approach).
 
 ---
+---
+
+## Experimental Results
+
+This section presents the measured metrics in tabular form and supports them with plots.
+
+###  Output Table 
+
+> Note: You can update the table below with your final exact values (or keep it as-is).
+
+| Quantum time (ms) | Average Response Time (ms) | Average Turnaround Time (ms) | Estimated Context Switches | Total Execution Time (ms) |
+|---:|---:|---:|---:|---:|
+| 2  | 3.0455  | 2983.6944 | 508 | 3031.8791 |
+| 9  | 11.2957 | 3004.9124 | 292 | 3029.2185 |
+| 26 | 29.7192 | 2999.0582 | 89  | 3056.6702 |
+
+### Graphs 
+
+The following plots were generated from the experiment outputs:
+- Quantum (ms) vs Estimated Context Switches
+- Quantum (ms) vs Average Response Time (ms)
+
+![Figure 1 - Quantum vs Metrics](assets/figure1_quantum_vs_metrics.png)
+
+
+---
 
 ## Build and Run
 
