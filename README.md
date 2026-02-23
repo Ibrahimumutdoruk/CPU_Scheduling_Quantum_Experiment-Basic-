@@ -85,8 +85,7 @@ The following plots were generated from the experiment outputs:
 <p align="center"><em>
   Figure 1. Graphical output of Quantum Time (ms) vs Average Response Time (ms) and Quantum Time (ms) vs Estimated Number of Context Switches.
 </em></p>
-<p align="center"><strong>Figure 1.</strong> ...</p>
----
+
 
 ## Build and Run
 
