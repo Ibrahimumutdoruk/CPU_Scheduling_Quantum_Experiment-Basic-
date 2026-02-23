@@ -6,8 +6,6 @@ The tested quantum values are: **Q = 2 ms, 9 ms, 26 ms**
 
 ---
 
----
-
 ## Objective
 The goal of this project is to observe, as the **quantum length increases**:
 - How the **number of context switches** changes,
